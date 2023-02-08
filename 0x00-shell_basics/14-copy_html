@@ -1,0 +1,10 @@
+#!/bin/bash
+cp -un  *.ht
+cp -un  *.ht
+cp -un  *.ht
+cp -un  *.ht
+cp -un  *.ht
+cp -un  *.ht
+cp -un  *.ht
+cp -un  *.html ../
+  
